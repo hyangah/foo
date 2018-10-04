@@ -1,3 +1,3 @@
 package lib
 
-var Version = 1
+var Version = 2

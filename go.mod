@@ -1,1 +1,1 @@
-module github.com/hyangah/foo
+module github.com/hyangah/foo/v2
